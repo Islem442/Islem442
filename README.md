@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Islem442
-- 👀 I’m interested in game dev
 - 🌱 I’m currently learning coding
 
 <!---
